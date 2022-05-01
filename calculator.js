@@ -26,4 +26,5 @@ else {
 // display the result
 console.log(`${number1} ${operator} ${number2} = ${result}`);
 
+// result\
 // result
